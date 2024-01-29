@@ -63,4 +63,7 @@ Regardless of your choice, you'll need to perform intrinsic camera calibration. 
 
 Dive into the resources, experiment, and embrace the world of Extrinsic Camera Calibration! Got questions or feedback? Reach out to arunkru@uw.edu or arunkru@gmail.com.
 
+![ezgif com-animated-gif-maker](https://github.com/arunkru1998/Camera_Calibration_Resources/assets/114765006/0cfa76ae-80ae-4dda-bcf5-bdb2b648b799)
+
+
 Happy Calibrating!
